@@ -5312,6 +5312,7 @@ a.badge-dark:focus {
     position: relative;
     padding: .75rem 1.25rem;
     margin-bottom: 1rem;
+    margin-top: 1rem;
     border: 1px solid transparent;
     border-border-radius: 0.25rem:.25rem
 }
@@ -11810,6 +11811,10 @@ blockquote {
 .badge-info,
 .btn-info {
     background-color: #5b7290 !important
+}
+
+.btn-file {
+    margin-top: 1rem;
 }
 
 .alert {
