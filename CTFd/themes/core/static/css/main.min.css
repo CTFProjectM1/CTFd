@@ -11817,6 +11817,10 @@ blockquote {
     margin-top: 1rem;
 }
 
+.btn-hint {
+    margin-top: 1rem;
+}
+
 .alert {
     border-radius: 0.25rem !important;
     padding: .8em
